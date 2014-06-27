@@ -1,5 +1,6 @@
 <?
 echo "testephpzuado";
+echo "modificacao";
 ?>
 
 
